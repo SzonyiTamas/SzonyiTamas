@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Tamás Szőnyi
 
-<!--
-**SzonyiTamas/SzonyiTamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science BSc student at Óbuda University, John von Neumann Faculty of Informatics. 
 
-Here are some ideas to get you started:
+I am primarily interested in **backend** development, where I can channel my passion for optimization and efficiency. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Professional Experience
+Currently, I am working as an intern at **evosoft Hungary**, where I contribute to various projects and tasks:
+- 🤖 **LLM Development:** Developing a text-categorization LLM in Python.
+- 🐳 **Containerization:** Docker-related tasks and infrastructure development.
+- 💻 **UI & Security:** Contributing to user interface creation and security-related tasks.
+- ⚡ **Automation:** Gaining hands-on experience with agent-based automation pipelines.
+
+---
+
+### 🎓 University & Projects
+- 🔭 You can check out several of my university and personal projects on my profile – including my **thesis**, which has also been turned into a scientific publication.
+- 🏆 I participated in the **Scientific Students' Associations Conference (TDK)**, where I achieved **1st place** in my section.
+
+---
+
+### 🌱 Beyond Code
+- 🌲 In my free time, I love hiking and camping – nature never fails to amaze and inspire me.
+
+---
+
+### 📫 Connect with me
+- 💼 www.linkedin.com/in/tamás-szőnyi-37466243b
