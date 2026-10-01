@@ -18,6 +18,7 @@ Currently, I am working as an intern at **evosoft Hungary**, where I contribute 
 ### University & Projects
 - You can check out several of my university and personal projects on my profile – including my **thesis**, which has also been turned into a scientific publication.
 - I participated in the **Scientific Students' Associations Conference (TDK)**, where I achieved **1st place** in my section.
+- I also participated in the **24th IEEE International Symposium on Intelligent Systems and Informatics (SISY)**, where I **presented and published my research**.
 
 ---
 
