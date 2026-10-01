@@ -8,7 +8,7 @@ I am primarily interested in **backend** development, where I can channel my pas
 
 ### Professional Experience
 Currently, I am working as an intern at **evosoft Hungary**, where I contribute to various projects and tasks:
-- **LLM Development:** Developing a text-categorization LLM in Python.
+- **LLM Development:** Developing a log-categorization LLM in Python.
 - **Containerization:** Docker-related tasks and infrastructure development.
 - **UI & Security:** Contributing to user interface creation and security-related tasks.
 - **Automation:** Gaining hands-on experience with agent-based automation pipelines.
