@@ -1,4 +1,4 @@
-## Hi there I'm Tamás Szőnyi
+## Hi there, I'm Tamás Szőnyi!
 
 I'm a final-year Computer Science BSc student at Óbuda University, John von Neumann Faculty of Informatics. 
 
