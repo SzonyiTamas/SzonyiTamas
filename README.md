@@ -26,6 +26,3 @@ Currently, I am working as an intern at **evosoft Hungary**, where I contribute 
 - In my free time, I love hiking and camping – nature never fails to amaze and inspire me.
 
 ---
-
-### Connect with me
-- www.linkedin.com/in/tamás-szőnyi-37466243b
